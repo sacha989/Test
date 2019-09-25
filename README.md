@@ -2,6 +2,7 @@
 un test de fonctionnalité
 
 # test de synchro
-github -> local
+* github -> local
+* local -> github
 
 S. Hiridjee
